@@ -1,0 +1,2 @@
+# timeSharing
+Q.5 Sudhesh Sharma is a linux expert who wants to have an online system where he can handle student queries. Since there can be multiple rquests at any time he wishes to dedicate a fixed amount of time to every requests so that everyone gets a fair share of his time. He wil log into the system from 10 am to 12 am only. He wants to have seperate queues students and faculties. Implement a strategy for the same. The summary at the end of the session should include the total time he spent on handling queries and average query time.
